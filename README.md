@@ -24,4 +24,4 @@ Sales_Amount / Quantity: Revenue and volume metrics
 Region / Location: Geographic breakdown
 
 🛠️ Tools & Technologies
-CategoryTools & Libraries UsedProgramming & AnalysisPython (pandas, numpy, matplotlib, seaborn)Database ManagementPostgreSQL, MySQL, Microsoft SQL ServerBusiness IntelligenceMicrosoft Power BI, DAX, Power QueryReporting & PresentationsGamma App, Markdown, MS ExcelEnvironmentJupyter Notebook, VS Code, Git/GitHub
+CategoryTools & Libraries UsedProgramming & AnalysisPython (pandas, numpy, matplotlib, seaborn)Database ManagementPostgreSQL, MySQL, Microsoft SQL ServerBusiness IntelligenceMicrosoft Power BI, DAX, Power QueryReporting & PresentationsGamma App, Markdown, MS ExcelEnvironmentJupyter Notebook, VS Code, Git/GitHub.
